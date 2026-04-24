@@ -35,4 +35,4 @@ The agent will work through each question in `math_questions.md` and print the R
 - `.env.example` - template for your API key
 
 ## Video Recording
-[click me :;)](https://whiteboard.zoom.us/wb/doc/54CpyjaSSq-0DWI5-d6vzw)
+[click me :)](https://whiteboard.zoom.us/wb/doc/54CpyjaSSq-0DWI5-d6vzw)
