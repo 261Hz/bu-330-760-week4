@@ -53,6 +53,7 @@ def calculator_tool(expression: str) -> str:
          #loads JSON file into a python dic
          products = json.load(f)
     if product_name in products: 
+        # f here is f string - puts variables into {}
         return f"{product_name} costs ${products[products_name]}"
     return f"Product not found. Here are the available oroducts: {list(products.keys())}"
      
