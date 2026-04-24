@@ -35,4 +35,4 @@ The agent will work through each question in `math_questions.md` and print the R
 - `.env.example` - template for your API key
 
 ## Video Recording
-[click me :)]([https://whiteboard.zoom.us/wb/doc/54CpyjaSSq-0DWI5-d6vzw](https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/akraus5_jh_edu/IQAh6B0MUdloSIzcQf1uaiU-ATCVmIqgZ2zk3DDocprzBE4?email=spatil18%40jh.edu&e=ot2bly&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbE1vZGUiOiJtaXMiLCJyZWZlcnJhbFZpZXciOiJwb3N0cm9sbC1jb3B5bGluayIsInJlZmVycmFsUGxheWJhY2tTZXNzaW9uSWQiOiI0YWQ2NWFkYi1lYzFhLTQzYzYtYWEwZC01NThlMTZkZTcwMDUifX0%3D))
+[click me :)](https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/akraus5_jh_edu/IQAh6B0MUdloSIzcQf1uaiU-ATCVmIqgZ2zk3DDocprzBE4?email=spatil18%40jh.edu&e=ot2bly&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbE1vZGUiOiJtaXMiLCJyZWZlcnJhbFZpZXciOiJwb3N0cm9sbC1jb3B5bGluayIsInJlZmVycmFsUGxheWJhY2tTZXNzaW9uSWQiOiI0YWQ2NWFkYi1lYzFhLTQzYzYtYWEwZC01NThlMTZkZTcwMDUifX0%3D)
