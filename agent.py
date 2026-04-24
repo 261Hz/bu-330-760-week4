@@ -40,10 +40,11 @@ def calculator_tool(expression: str) -> str:
 #   2. If the product_name is in the catalog, return its price as a string
 #   3. If not found, return the list of available product names so the agent
 #      can try again with the correct name
-#
+
+
 @agent.tool_plain
 # define the function takes input reutns string
- def product_lookup(product_name: str) -> str:
+def product_lookup(product_name: str) -> str:
      # docstring AI uses to determine if tool is necessary
      """Look up the price of a product by name.
      Use this when a question asks about product prices from the catalog.
@@ -54,7 +55,7 @@ def calculator_tool(expression: str) -> str:
          products = json.load(f)
     if product_name in products: 
         # f here is f string - puts variables into {}
-        return f"{product_name} costs ${products[products_name]}"
+        return f"{product_name} costs ${products[product_name]}"
     return f"Product not found. Here are the available oroducts: {list(products.keys())}"
      
 
